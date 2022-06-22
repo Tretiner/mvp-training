@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">mvp-training</string>
+    <string name="name_hint">habibi</string>
+    <string name="mail_hint">habibi@bubox.com</string>
+    <string name="register">Register</string>
+    <string name="clear_all">Clear all</string>
+</resources>
